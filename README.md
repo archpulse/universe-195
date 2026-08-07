@@ -8,15 +8,15 @@
 ## 📁 Структура Репозитория / Repository Structure
 
 ### 🇷🇺 Русская Версия (Russian Version) — [`russian/`](russian/README.md)
-- 📖 **Единая рукопись книги**: [`russian/manuscript.md`](russian/manuscript.md)
-- 📚 **Единый сборник рассказов**: [`russian/stories_anthology.md`](russian/stories_anthology.md)
-- 📂 **Книга по главам**: [`russian/book/`](russian/README.md#основная-книга-8-глав)
-- 📂 **Отдельные рассказы**: [`russian/stories/`](russian/README.md#сборник-рассказов-и-спин-оффов-5-рассказов)
+- 📄 **Единая рукопись книги**: [`russian/standalone_story_ru.md`](russian/standalone_story_ru.md)
+- 📄 **Единый сборник рассказов**: [`russian/standalone_stories_ru.md`](russian/standalone_stories_ru.md)
+- 📂 **Книга по главам**: [`russian/book/`](russian/README.md#основная-книга-по-главам-book)
+- 📂 **Отдельные рассказы**: [`russian/stories/`](russian/README.md#спин-оффы-по-отдельным-рассказам-stories)
 
 ---
 
 ### 🇬🇧 English Version — [`english/`](english/README.md)
-- 📖 **Complete Book Manuscript**: [`english/manuscript.md`](english/manuscript.md)
-- 📚 **Complete Stories Collection**: [`english/stories_anthology.md`](english/stories_anthology.md)
-- 📂 **Book Chapters**: [`english/book/`](english/README.md#main-book-8-chapters)
-- 📂 **Individual Spin-Off Stories**: [`english/stories/`](english/README.md#spin-off-stories--lore-anthology-5-stories)
+- 📄 **Complete Book Manuscript**: [`english/standalone_story_en.md`](english/standalone_story_en.md)
+- 📄 **Complete Stories Collection**: [`english/standalone_stories_en.md`](english/standalone_stories_en.md)
+- 📂 **Book Chapters**: [`english/book/`](english/README.md#main-book-chapters-book)
+- 📂 **Individual Spin-Off Stories**: [`english/stories/`](english/README.md#spin-off-stories-stories)

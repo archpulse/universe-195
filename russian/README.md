@@ -5,10 +5,13 @@
 
 ---
 
-## 📖 Основная Книга (8 Глав)
-- **Единый файл книги**: [manuscript.md](manuscript.md)
+## 📄 Единые Файлы (Standalone)
+- **Полная книга (8 Глав)**: [standalone_story_ru.md](standalone_story_ru.md)
+- **Сборник рассказов (5 Спин-оффов)**: [standalone_stories_ru.md](standalone_stories_ru.md)
 
-**Чтение по главам (`book/`):**
+---
+
+## 📖 Основная Книга по Главам (`book/`)
 1. [Глава 1. 0 FPS на квантовом ПК](book/chapter_01_0_fps_quantum.md)
 2. [Глава 2. Паника в Universe 194](book/chapter_02_universe_194_panic.md)
 3. [Глава 3. Константа Кофе](book/chapter_03_coffee_constant.md)
@@ -20,10 +23,7 @@
 
 ---
 
-## 📚 Сборник Рассказов и Спин-оффов (5 Рассказов)
-- **Единый сборник рассказов**: [stories_anthology.md](stories_anthology.md)
-
-**Отдельные рассказы (`stories/`):**
+## 📚 Спин-оффы по Отдельным Рассказам (`stories/`)
 1. 💥 [Рассказ 1. Большой взрыв Universe 180](stories/story_01_universe_180_big_bang.md)
 2. 📄 [Рассказ 2. Почему документация уничтожила Universe 182](stories/story_02_universe_182_docs.md)
 3. ☕ [Рассказ 3. Первый рабочий день Майло](stories/story_03_milo_first_day.md)
