@@ -50,7 +50,7 @@ Every term is directly linked to the scenes and plot of the book so that non-tec
 
 ### Git (Commit, Push, Fork, Rollback)
 💬 **In the Book**: Chapters 2, 8, 10, 11. Milo forgetting to commit, Archpulse pushing to GitHub, Jax forking 196, and Universe -1's unknown author commit.  
-📖 **What is it?**: A version control system.  
+📖 **What is it?**: A program that saves a project's revision history. Thanks to Git, developers can roll back mistakes, work across multiple parallel versions, and see who changed what.  
 * **Commit**: Saving a snapshot of code changes with a text note.  
 * **Push**: Uploading local commits to a remote server (GitHub).  
 * **Fork**: Creating a copy/branch of another project (creating 196 from 195).  
@@ -90,11 +90,11 @@ Every term is directly linked to the scenes and plot of the book so that non-tec
 
 ### Hypervisor
 💬 **In the Book**: Chapters 2, 5, 9. The main program in cluster Omega-194 running Universes 194, 195, and 196.  
-📖 **What is it?**: Low-level software that runs and isolates multiple virtual environments (or Universes!) on one physical server.
+📖 **What is it?**: Low-level software that runs and isolates multiple virtual environments (or Universes!) on one physical server. You can think of it as an 'operating system for virtual computers'.
 
 ### LLM / Context Window / Scratchpad
 💬 **In the Book**: Chapter 7. ChatGPT's internal reasoning scratchpad with the `keep` flag and 40 ms frame hold.  
-📖 **What is it?**: Language model (AI). Context window = memory buffer. Scratchpad = internal reasoning draft between user prompts.
+📖 **What is it?**: Language model (AI). Context window = memory buffer. Scratchpad = AI's internal working draft that users normally don't see.
 
 ### RFC (Request for Comments)
 💬 **In the Book**: Appendix A. RFC-195-COFFEE: Official coffee constant technical standard from Jax, Milo, and Ada.  
@@ -102,4 +102,4 @@ Every term is directly linked to the scenes and plot of the book so that non-tec
 
 ### Swagger / OpenAPI / YAML / JSON
 💬 **In the Book**: Story 2 & Story 5. Documentation formats whose strict validation collapsed Universe 182 into a `.yaml` black hole.  
-📖 **What is it?**: Strict specification formats for web APIs.
+📖 **What is it?**: Text formats for storing structured data and configuration files.
