@@ -6,8 +6,9 @@
 ---
 
 ## 📄 Единые Файлы (Standalone)
-- **Полная книга (11 Глав + RFC)**: [standalone_story_ru.md](standalone_story_ru.md)
+- **Полная книга (11 Глав + RFC + IT-Глоссарий)**: [standalone_story_ru.md](standalone_story_ru.md)
 - **Сборник рассказов (5 Спин-оффов)**: [standalone_stories_ru.md](standalone_stories_ru.md)
+- **📖 IT-Глоссарий терминов**: [glossary.md](glossary.md)
 
 ---
 
@@ -24,6 +25,7 @@
 10. [Глава 10. Стук снизу](book/chapter_10_knock_from_below.md)
 11. [Глава 11. Омега-Ядро (Universe -88338387347863327783)](book/chapter_11_omega_core.md)
 - 📋 [Приложение A. RFC-195-COFFEE: Константа кофе](book/appendix_rfc_195_coffee.md)
+- 📖 [Приложение B. IT-Глоссарий терминов](book/appendix_b_glossary.md)
 
 ---
 

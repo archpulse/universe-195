@@ -6,8 +6,9 @@
 ---
 
 ## 📄 Single-File Standalone Manuscripts
-- **Complete Book (11 Chapters + RFC)**: [standalone_story_en.md](standalone_story_en.md)
+- **Complete Book (11 Chapters + RFC + IT Glossary)**: [standalone_story_en.md](standalone_story_en.md)
 - **Spin-Off Stories Collection**: [standalone_stories_en.md](standalone_stories_en.md)
+- **📖 IT Terms Glossary**: [glossary.md](glossary.md)
 
 ---
 
@@ -24,6 +25,7 @@
 10. [Chapter 10. The Knock from Below](book/chapter_10_knock_from_below.md)
 11. [Chapter 11. The Omega-Core (Universe -88338387347863327783)](book/chapter_11_omega_core.md)
 - 📋 [Appendix A. RFC-195-COFFEE: The Coffee Constant](book/appendix_rfc_195_coffee.md)
+- 📖 [Appendix B. Universe 195 IT Glossary](book/appendix_b_glossary.md)
 
 ---
 
