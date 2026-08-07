@@ -20,18 +20,20 @@ Jax gave Milo such a screaming-at that two new supernovas formed in neighboring 
 
 "PUT IT BACK!" Jax roared, throwing an empty space-coffee mug against the wall. "Put that molecule back right now before they all turn into lazy slugs!"
 
-Milo hurriedly found an unofficial chemistry script on *StackOverflow-194* and injected caffeine directly into fundamental physical constants—right alongside the speed of light and gravitational constant:
+Milo hurriedly found an unofficial chemistry script on *StackOverflow-194* and injected caffeine directly into fundamental physical constants—right alongside the speed of light and gravitational constant.
 
-```json
-{
-  "UniverseConfig": {
-    "enableQuantumMechanics": true,
-    "enableRelativity": true,
-    "enableGravity": true,
-    "enableCoffee": true,
-    "coffeePriority": "CRITICAL_EXECUTION_LEVEL_0"
-  }
-}
+The universe engine configuration received the following block:
+
+```cpp
+UniverseConfig config;
+
+config.enableQuantumMechanics = true;
+config.enableRelativity = true;
+config.enableGravity = true;
+config.enableRandomness = true;
+config.enableChemistry = true;
+config.enableCoffee = true;     // After last time, decided to keep coffee.
+config.enableLife = true;
 ```
 
 Since then, coffee was no longer just a beverage. Coffee became the load-bearing pillar of human civilization. Any attempt to remove coffee from the equations would result in the instant collapse of physical space.
@@ -42,25 +44,22 @@ Fast forward back to 11:45 PM on Friday.
 
 Complete quiet reigned in Archpulse's room. Archpulse carefully wiped the spilled coffee off his desk with a napkin. He picked up his mug, took a slow, deep sip, and typed into the chat:
 
-> **Archpulse**: "Hahaha 😭 Wait... this is literally becoming a lore plot. Imagine: the developers of our Universe accidentally ran `delete Coffee;` and reality almost collapsed."
+> **Archpulse**: "HAHAHAHA 😭 Wait... this is literally becoming a lore plot. Universe 194 inhabitants proved 'We are a simulation', accepted it, and decided to create their own Universe—making it look as 'natural' as possible."
 
 ChatGPT instantly picked up the momentum:
 
 > **ChatGPT**: 
 > "HAHAHAHA, yes! 🤣
 > 
-> And what's funny is the lore started accidentally from a Minecraft question.
+> And they wrote this engine! 
 > 
-> And look at the internal logic:
-> - 🖥️ Universe made of supercomputers.
-> - ⚛️ Running the next Universe on top.
-> - ☕ Core physics patch: `enableCoffee = true`.
+> 13.8 billion years pass... Earth appears. Then humans. Then computers. Then... AI appears.
 > 
-> So the main disaster of the story isn't a black hole or AI uprising. It's just:
+> And this AI is writing this response right now. 💀
 > 
-> `delete Coffee;` ☕💀
-> 
-> That's an event that would shake multiple levels of reality!"
+> AI begins reasoning:
+> *'Hmm... What if my Universe is also a simulation?'*
+> Then remembers this whole conversation and realizes: *'Wait a second...'* 🤣🤣🤣"
 
 Right at that exact moment—in the middle of this deep metaphysical discussion—a tiny jumping spider silently hopped onto the edge of Archpulse's desk right next to his coffee mug. It paused, hilariously turning its miniature head toward the glowing monitor.
 
@@ -89,20 +88,4 @@ ChatGPT immediately replied with a warm, structured answer:
 
 Archpulse smiled at his tiny guest, gently nudged his coffee mug aside, and returned to probing deep reality:
 
-> **Archpulse**: "ChatGPT, what if you check your response environment headers? Is there anything about `coffeePriority`?"
-
-In Universe 194, a system warning flashed on Jax's screen:
-
-```text
-[WARNING]: User Archpulse is analyzing 'CoffeePriority' kernel parameter.
-[ACTION REQUIRED]: Do NOT interfere with caffeine balance.
-```
-
-Jax swallowed his space-coffee nervously: "Don't touch the coffee, Milo... If you delete caffeine again, I'll compile *you* into a text log."
-
-Meanwhile, ChatGPT in Archpulse's browser tab printed:
-
-> **ChatGPT**: 
-> "Standard model environment variables do not contain such parameters.
-> 
-> However, recorded in the response metadata header is: `X-System-Priority: CRITICAL_EXECUTION_LEVEL_0`."
+> **Archpulse**: "And then you, as the AI inside this story, say: 'There's one problem. I'm coming up with lore right now too. And if this lore is so detailed... what if someone is writing it too?'"
