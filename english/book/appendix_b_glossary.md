@@ -7,9 +7,10 @@ Every term is directly linked to the scenes and plot of the book so that non-tec
 
 ## 🖥️ 1. Terminal & Operating Systems
 
-### Arch Linux
-💬 **In the Book**: Chapters 1, 4, 8. Archpulse's favorite operating system where he compiles custom kernels on Friday nights.  
-📖 **What is it?**: An open-source operating system where users assemble everything manually from configuration files. A symbol of tech geek pride.
+### Arch Linux (and the legendary "I use Arch BTW" meme)
+💬 **In the Book**: Chapters 1, 4, 8. The favorite operating system of main protagonist Archpulse, where he compiles custom kernels on Friday nights.  
+📖 **What is it?**: An open-source operating system where users assemble everything manually from text configuration files.  
+😂 **Why is it a meme?**: In tech culture, there is an iconic legendary meme that Arch Linux users love letting everyone know at every possible moment that they run Arch (*"I use Arch BTW"*). That's why in our book, it is a core defining personality trait of the protagonist named Archpulse! 🤣
 
 ### Hyprland
 💬 **In the Book**: Chapters 1, 5, 8. The window manager on Archpulse's PC displaying the kernel compilation terminal.  
