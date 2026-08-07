@@ -1,11 +1,11 @@
-# Universe 195 (TODO: Don't Delete Coffee) — Complete English Adaptation
+# Universe 195 (TODO: Don't Delete Coffee) — Complete Manuscript
 
 **Author**: Archpulse & ChatGPT  
 **Genre**: Sci-Fi / Meta-Humor / Cyberpunk  
 
 ---
 
-### [MANUSCRIPT]
+### [BOOK MANUSCRIPT]
 
 
 ***

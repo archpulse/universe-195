@@ -1,4 +1,4 @@
-# Universe 195 — Legends & Spin-Offs (Complete Anthology)
+# Universe 195 — Spin-Off Stories & Lore Anthology
 
 **Author**: Archpulse & ChatGPT  
 **Genre**: Sci-Fi / Meta-Humor / Cyberpunk  
