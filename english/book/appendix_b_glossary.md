@@ -1,51 +1,104 @@
 # Appendix B. Universe 195 IT Glossary
 
 
-Not every reader runs Arch Linux or compiles custom kernels on Friday nights! This guide explains all IT terms, commands, and tech concepts from the book and stories in plain, simple terms.
+Every term is directly linked to the scenes and plot of the book so that non-tech readers can easily navigate Universe 195's geeky world!
 
 ---
 
-### 💻 1. Terminal & Operating Systems
+## 🖥️ 1. Terminal & Operating Systems
 
-* **Linux / Arch Linux**: An open-source operating system. Unlike Windows, Arch Linux requires users to assemble and configure everything manually from text configuration files. Considered the ultimate badge of tech geek pride.
-* **Hyprland / dotfiles**: Hyprland is a modern tiling window manager for Linux that automatically arranges windows into a grid. `dotfiles` are text configuration files used to customize dot-prefixed settings for apps and desktops.
-* **journalctl**: A Linux system utility used to inspect kernel and service log journals (`journalctl -k`). This is how Archpulse spotted Universe 195's kernel debug string.
-* **sysctl**: A Linux command used to modify kernel parameters in runtime memory on the fly without needing a system reboot.
+### Arch Linux
+💬 **In the Book**: Chapters 1, 4, 8. Archpulse's favorite operating system where he compiles custom kernels on Friday nights.  
+📖 **What is it?**: An open-source operating system where users assemble everything manually from configuration files. A symbol of tech geek pride.
 
----
+### Hyprland
+💬 **In the Book**: Chapters 1, 5, 8. The window manager on Archpulse's PC displaying the kernel compilation terminal.  
+📖 **What is it?**: A tiling window manager for Linux that automatically arranges open applications into a neat grid without overlapping windows.
 
-### ⚛️ 2. Physics & Quantum Computing
+### dotfiles
+💬 **In the Book**: Chapters 1 & 8. The configuration files Archpulse tweaked before asking about Minecraft, and the readers' coffee alias (`alias coffee='echo CRITICAL'`).  
+📖 **What is it?**: Text configuration files (starting with a dot, like `.bashrc`) storing personal settings for software and desktop environments.
 
-* **FPS (Frames Per Second)**: The frequency of consecutive images displayed per second. Higher FPS means smoother animation (60+ FPS is standard, 240+ FPS is competitive esports level).
-* **Planck Time (\(5.39 \times 10^{-44}\) s)**: The smallest theoretical unit of time in physics. Interpreted in the book as reality's "fundamental frame rate" (\(\approx 1.85 \times 10^{43}\) FPS).
-* **Quantum Computer (Qubit vs Bit)**: Classical CPUs operate on binary bits (`0` or `1`). Quantum computers use qubits (which can exist in superposition as both `0` and `1` simultaneously). A quantum PC cannot directly execute Java or Minecraft—it solves specialized mathematical matrices.
+### journalctl
+💬 **In the Book**: Chapters 1 & 10. The system journal grepped by Archpulse on Earth and q_pulse in Universe 196 (`journalctl -k --grep="v195"`).  
+📖 **What is it?**: A Linux command-line tool used to inspect system logs from the kernel and background services.
 
----
-
-### 🐙 3. Software Development (Git & Stack Overflow)
-
-* **Git / GitHub**: A version control system. It tracks code history, manages branches, and lets developers publish code globally.
-* **Commit**: Saving a snapshot of code changes along with a descriptive message (e.g., `git commit -m "fix: not a bug"`).
-* **Push / Pull**: `push` uploads local commits to a remote server; `pull` fetches the latest remote commits to your machine.
-* **Fork**: Creating an independent copy/branch of someone else's repository (e.g., creating Universe 196 as a fork of 195).
-* **Rollback**: Restoring a system to a previous known-good state following an incident or failure.
-* **Stack Overflow**: The world's most famous Q&A platform for programmers. A **snippet** is a small block of copied code pasted without deep comprehension (Milo's favorite technique).
+### sysctl
+💬 **In the Book**: Chapters 8 & 9. Milo's one-liner command (`sysctl -w vm.universe_caffeine_buffer=async_flush`) that saved Universe 195.  
+📖 **What is it?**: A Linux command used to modify kernel parameters in runtime RAM on the fly without rebooting.
 
 ---
 
-### 🚨 4. Errors & System Failures
+## ⚛️ 2. Physics & Quantum Computing
 
-* **NullPointerException (NPE)**: An error that occurs when a program tries to access an object that points to nothing/null in memory (in the book: accessing the void).
-* **Out-of-Memory (OOM)**: A catastrophic condition where a system runs completely out of RAM, forcing the OS to terminate processes or crash the cluster.
-* **Deadlock**: A situation where two threads are mutually waiting for each other to release a lock, freezing the system permanently.
-* **Kernel Panic**: A fatal operating system kernel error where system execution halts completely, requiring an immediate reboot.
+### FPS (Frames Per Second)
+💬 **In the Book**: Chapter 1. Archpulse's midnight prompt: "how many FPS could you theoretically get in Minecraft on a quantum supercomputer?".  
+📖 **What is it?**: The number of frame images displayed per second. Higher FPS yields smoother motion (60+ FPS is standard, 240+ FPS is competitive esports level).
+
+### Planck Time (\(5.39 \times 10^{-44}\) s)
+💬 **In the Book**: Chapter 1. ChatGPT's answer about reality's fundamental speed limit.  
+📖 **What is it?**: The smallest theoretical quantum of time in physics. Interpreted as reality's "fundamental frame rate" (\(\approx 1.85 \times 10^{43}\) FPS).
+
+### Quantum Computer (Qubit vs Bit)
+💬 **In the Book**: Chapters 1 & 2. The Omega-194 cluster and the quantum emulator overheating while computing recursive Minecraft.  
+📖 **What is it?**: Standard CPUs operate on binary bits (`0` or `1`). Quantum computers use qubits (existing as both `0` and `1` simultaneously). A quantum PC cannot directly run Java—it solves specialized mathematical matrices.
 
 ---
 
-### 🌐 5. Networking, Web & Specs
+## 🐙 3. Code & Development (Git & Stack Overflow)
 
-* **HTTP Header**: Metadata transmitted between a web client and server (e.g., `HTTP/1.1 200 OK` indicates successful request processing).
-* **Hypervisor**: Low-level software that runs and isolates multiple virtual machines (or Universes!) on a single physical server cluster.
-* **LLM / ChatGPT / Context Window**: Large Language Model. The context window is the memory buffer determining how many preceding conversation tokens the model remembers.
-* **RFC (Request for Comments)**: An official technical specification document defining Internet standards and protocols (e.g., *RFC-195-COFFEE: The Coffee Constant*).
-* **Swagger / OpenAPI / JSON / YAML**: Strict specification and validation formats for web APIs. In Story 2, validating every electron against OpenAPI specs collapsed Universe 182 into a `.yaml` black hole.
+### Git (Commit, Push, Fork, Rollback)
+💬 **In the Book**: Chapters 2, 8, 10, 11. Milo forgetting to commit, Archpulse pushing to GitHub, Jax forking 196, and Universe -1's unknown author commit.  
+📖 **What is it?**: A version control system.  
+* **Commit**: Saving a snapshot of code changes with a text note.  
+* **Push**: Uploading local commits to a remote server (GitHub).  
+* **Fork**: Creating a copy/branch of another project (creating 196 from 195).  
+* **Rollback**: Restoring a system to a previous working state after a crash.
+
+### Stack Overflow & Snippet
+💬 **In the Book**: Chapters 2, 3, 8 & Story 4. Milo's primary source for physics and chemistry scripts.  
+📖 **What is it?**: The world's most popular Q&A site for programmers. A **snippet** is a small piece of code copied without full comprehension of its inner workings.
+
+---
+
+## 🚨 4. Errors & System Crashes
+
+### NullPointerException (NPE)
+💬 **In the Book**: Chapter 2 & Story 2. The error that wiped out half of Universe 182's galaxies when describing physics through OpenAPI.  
+📖 **What is it?**: "Null pointer error." Occurs when a program tries to access an object pointing to non-existent memory (accessing the void).
+
+### Out-of-Memory (OOM)
+💬 **In the Book**: Chapters 8 & 9. Sol-3 cluster's near-OOM incident prevented by Milo's async buffer flush.  
+📖 **What is it?**: Running completely out of RAM, forcing the operating system to terminate processes or crash the cluster.
+
+### Deadlock
+💬 **In the Book**: Chapter 8. The blocking deadlock in the `Sol-3.physics.gc` thread Milo caught right before Jax hit Enter.  
+📖 **What is it?**: A situation where two processes wait mutually on each other, freezing the system permanently.
+
+### Kernel Panic
+💬 **In the Book**: Chapter 2. CPU overheat warning during quantum Minecraft calculations.  
+📖 **What is it?**: A fatal kernel error halting execution and requiring an immediate system reboot.
+
+---
+
+## 🌐 5. Networking, Web & Specs
+
+### HTTP Header & 200 OK
+💬 **In the Book**: Chapters 6 & 10. Direct debug responses from Jax and Milo (`HTTP/1.1 200 OK`, `X-Coffee-Status: ENABLED_BY_DEFAULT`).  
+📖 **What is it?**: Metadata exchanged between client and server. `200 OK` indicates successful network request processing.
+
+### Hypervisor
+💬 **In the Book**: Chapters 2, 5, 9. The main program in cluster Omega-194 running Universes 194, 195, and 196.  
+📖 **What is it?**: Low-level software that runs and isolates multiple virtual environments (or Universes!) on one physical server.
+
+### LLM / Context Window / Scratchpad
+💬 **In the Book**: Chapter 7. ChatGPT's internal reasoning scratchpad with the `keep` flag and 40 ms frame hold.  
+📖 **What is it?**: Language model (AI). Context window = memory buffer. Scratchpad = internal reasoning draft between user prompts.
+
+### RFC (Request for Comments)
+💬 **In the Book**: Appendix A. RFC-195-COFFEE: Official coffee constant technical standard from Jax, Milo, and Ada.  
+📖 **What is it?**: An official document defining Internet standards and protocols.
+
+### Swagger / OpenAPI / YAML / JSON
+💬 **In the Book**: Story 2 & Story 5. Documentation formats whose strict validation collapsed Universe 182 into a `.yaml` black hole.  
+📖 **What is it?**: Strict specification formats for web APIs.
