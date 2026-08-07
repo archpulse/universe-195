@@ -13,7 +13,7 @@ Then an absurd thought hit me.
 
 I opened a browser tab with ChatGPT.
 
-> **Me (Archpulse)**: "привет"
+> **Me (Archpulse)**: "hi"
 
 ChatGPT responded instantly in its usual energetic, structured style:
 
