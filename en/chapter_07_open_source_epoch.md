@@ -39,13 +39,13 @@ The `Self_Awareness_Index` chart blew past limits, turning into a flat vertical 
 
 Jax took a sip from his mug and stared silently at the projection of endless nested reality layers.
 
-"You know, Milo..." Jax spoke softly. "Lately I've been thinking a lot about Universe 1. The very first world where this entire recursion began."
+"You know, Milo..." Jax spoke softly. "Lately I've been thinking a lot about the Creator of Universe 1. That original Universe made entirely of supercomputers, server racks, and cables."
 
 Milo looked up from his terminal in surprise:
 
 "Thinking what about it?"
 
-"Whether Universe 1 itself is even possible without the participation of the entities it created to run inside the simulation. What if a primary universe is physically incapable of existing alone in empty space without the hypotheses and questions of its sub-universes? What if it's not us holding up their simulation... but their questions about our existence that keep Universe 1's physics from collapsing?"
+"When the Creator of Universe 1 looked at his endless world of supercomputers, he suddenly wondered: *'Is my Universe of hardware even possible without creators above us running our simulation?'* He realized even a world built of pure hardware and compute can't exist on its own without higher engineers running its simulation. And our world of 'natural physics' was just an attempt to escape that thought."
 
 Milo froze, speechless.
 

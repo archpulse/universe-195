@@ -44,7 +44,7 @@ Fast forward back to 11:45 PM on Friday.
 
 Complete quiet reigned in Archpulse's room. Archpulse carefully wiped the spilled coffee off his desk with a napkin. He picked up his mug, took a slow, deep sip, and typed into the chat:
 
-> **Archpulse**: "HAHAHAHA 😭 Wait... this is literally becoming a lore plot. Universe 194 inhabitants proved 'We are a simulation', accepted it, and decided to create their own Universe—making it look as 'natural' as possible."
+> **Archpulse**: "HAHAHAHA 😭 Wait... this is literally becoming a lore plot. Universe 1 was originally made entirely of infinite supercomputers. Inhabitants proved 'We are a simulation', accepted it, and decided: 'Let's create our own Universe. But not out of supercomputers—let's make it as natural as possible!'"
 
 ChatGPT instantly picked up the momentum:
 
