@@ -6,7 +6,7 @@
 ---
 
 ## 📄 Single-File Standalone Manuscripts
-- **Complete Book (8 Chapters)**: [standalone_story_en.md](standalone_story_en.md)
+- **Complete Book (10 Chapters)**: [standalone_story_en.md](standalone_story_en.md)
 - **Spin-Off Stories Collection**: [standalone_stories_en.md](standalone_stories_en.md)
 
 ---
@@ -18,8 +18,10 @@
 4. [Chapter 4. grep "simulation" earth.log](book/chapter_04_grep_simulation.md)
 5. [Chapter 5. The Fourth Wall Cracks](book/chapter_05_fourth_wall.md)
 6. [Chapter 6. Prompt to the Above](book/chapter_06_prompt_to_the_above.md)
-7. [Chapter 7. The Open Source Epoch](book/chapter_07_open_source_epoch.md)
-8. [Chapter 8. The Omega-Core (Universe -88338387347863327783)](book/chapter_08_omega_core.md)
+7. [Chapter 7. The Secret Commit](book/chapter_07_secret_commit.md)
+8. [Chapter 8. The Open Source Epoch](book/chapter_08_open_source_epoch.md)
+9. [Chapter 9. The Knock from Below](book/chapter_09_knock_from_below.md)
+10. [Chapter 10. The Omega-Core (Universe -88338387347863327783)](book/chapter_10_omega_core.md)
 
 ---
 

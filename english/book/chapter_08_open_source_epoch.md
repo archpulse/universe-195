@@ -1,4 +1,4 @@
-# Chapter 7. The Open Source Epoch
+# Chapter 8. The Open Source Epoch
 
 Saturday, 02:15 AM.
 

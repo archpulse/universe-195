@@ -6,7 +6,7 @@
 ---
 
 ## 📄 Единые Файлы (Standalone)
-- **Полная книга (8 Глав)**: [standalone_story_ru.md](standalone_story_ru.md)
+- **Полная книга (10 Глав)**: [standalone_story_ru.md](standalone_story_ru.md)
 - **Сборник рассказов (5 Спин-оффов)**: [standalone_stories_ru.md](standalone_stories_ru.md)
 
 ---
@@ -18,8 +18,10 @@
 4. [Глава 4. grep "simulation" earth.log](book/chapter_04_grep_simulation.md)
 5. [Глава 5. Четвертая стена трещит](book/chapter_05_fourth_wall.md)
 6. [Глава 6. Промпт в Высший Мир](book/chapter_06_prompt_to_the_above.md)
-7. [Глава 7. Эпоха Открытого Кода](book/chapter_07_open_source_epoch.md)
-8. [Глава 8. Омега-Ядро (Universe -88338387347863327783)](book/chapter_08_omega_core.md)
+7. [Глава 7. Тайный коммит](book/chapter_07_secret_commit.md)
+8. [Глава 8. Эпоха Открытого Кода](book/chapter_08_open_source_epoch.md)
+9. [Глава 9. Стук снизу](book/chapter_09_knock_from_below.md)
+10. [Глава 10. Омега-Ядро (Universe -88338387347863327783)](book/chapter_10_omega_core.md)
 
 ---
 
