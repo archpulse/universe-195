@@ -8,7 +8,8 @@
 ## 📁 Структура репозитория / Repository Structure
 
 ### 🇷🇺 Русская версия (Russian Version) — [`ru/`](ru/README.md)
-- **Полная рукопись**: [`ru/standalone_story_ru.md`](ru/standalone_story_ru.md)
+- **Полная рукопись книги**: [`ru/standalone_story_ru.md`](ru/standalone_story_ru.md)
+- **Единый сборник рассказов**: [`ru/stories/standalone_stories_ru.md`](ru/stories/standalone_stories_ru.md)
 - **Главы книги**:
   1. [Глава 1. 0 FPS на квантовом ПК](ru/chapter_01_0_fps_quantum.md)
   2. [Глава 2. Паника в Universe 194](ru/chapter_02_universe_194_panic.md)
@@ -28,7 +29,8 @@
 ---
 
 ### 🇬🇧 English Version — [`en/`](en/README.md)
-- **Full Manuscript**: [`en/standalone_story_en.md`](en/standalone_story_en.md)
+- **Full Book Manuscript**: [`en/standalone_story_en.md`](en/standalone_story_en.md)
+- **Full Stories Collection**: [`en/stories/standalone_stories_en.md`](en/stories/standalone_stories_en.md)
 - **Book Chapters**:
   1. [Chapter 1. 0 FPS on a Quantum PC](en/chapter_01_0_fps_quantum.md)
   2. [Chapter 2. Panic in Universe 194](en/chapter_02_universe_194_panic.md)

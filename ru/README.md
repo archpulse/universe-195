@@ -21,6 +21,9 @@
 ---
 
 ## 📚 Спин-оффы и отдельные рассказы (Антология лора)
+- **Единый сборник рассказов**: [stories/standalone_stories_ru.md](stories/standalone_stories_ru.md)
+
+**Отдельные рассказы:**
 1. 💥 [Рассказ 1. Большой взрыв Universe 180](stories/01_universe_180_big_bang.md)
 2. 📄 [Рассказ 2. Почему документация уничтожила Universe 182](stories/02_universe_182_docs.md)
 3. ☕ [Рассказ 3. Первый рабочий день Майло](stories/03_milo_first_day.md)

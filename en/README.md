@@ -21,6 +21,9 @@
 ---
 
 ## 📚 Spin-Off Stories & Lore Anthology
+- **Full Single-File Stories Collection**: [stories/standalone_stories_en.md](stories/standalone_stories_en.md)
+
+**Individual Spin-Off Stories:**
 1. 💥 [Story 1. The Big Bang of Universe 180](stories/01_universe_180_big_bang.md)
 2. 📄 [Story 2. Why Documentation Destroyed Universe 182](stories/02_universe_182_docs.md)
 3. ☕ [Story 3. Milo's First Workday](stories/03_milo_first_day.md)
