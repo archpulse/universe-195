@@ -517,7 +517,7 @@ Jax looked right through the screen—to where a human in the real world sits be
 
 ***
 
-### Epilogue. The Omega-Core (Universe 1)
+# Chapter 8. The Omega-Core (Universe -88338387347863327783)
 
 Far beyond Universe 194, high above thousands of nested virtual reality layers, stretched Universe #1—a primary cosmos built entirely of infinite humming server racks, optical fiber trunks, and freon cooling pipes extending into the dark void.
 
