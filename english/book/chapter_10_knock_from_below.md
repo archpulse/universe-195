@@ -1,4 +1,4 @@
-# Chapter 9. The Knock from Below
+# Chapter 10. The Knock from Below
 
 Universe 196 booted up at exactly 04:00 AM server hall time.
 

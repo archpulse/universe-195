@@ -6,7 +6,7 @@
 ---
 
 ## 📄 Single-File Standalone Manuscripts
-- **Complete Book (10 Chapters)**: [standalone_story_en.md](standalone_story_en.md)
+- **Complete Book (11 Chapters + RFC)**: [standalone_story_en.md](standalone_story_en.md)
 - **Spin-Off Stories Collection**: [standalone_stories_en.md](standalone_stories_en.md)
 
 ---
@@ -20,8 +20,10 @@
 6. [Chapter 6. Prompt to the Above](book/chapter_06_prompt_to_the_above.md)
 7. [Chapter 7. The Secret Commit](book/chapter_07_secret_commit.md)
 8. [Chapter 8. The Open Source Epoch](book/chapter_08_open_source_epoch.md)
-9. [Chapter 9. The Knock from Below](book/chapter_09_knock_from_below.md)
-10. [Chapter 10. The Omega-Core (Universe -88338387347863327783)](book/chapter_10_omega_core.md)
+9. [Chapter 9. A Regular Day in the Life of a Sysadmin](book/chapter_09_regular_admin_day.md)
+10. [Chapter 10. The Knock from Below](book/chapter_10_knock_from_below.md)
+11. [Chapter 11. The Omega-Core (Universe -88338387347863327783)](book/chapter_11_omega_core.md)
+- 📋 [Appendix A. RFC-195-COFFEE: The Coffee Constant](book/appendix_rfc_195_coffee.md)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 ## 📄 Единые Файлы (Standalone)
-- **Полная книга (10 Глав)**: [standalone_story_ru.md](standalone_story_ru.md)
+- **Полная книга (11 Глав + RFC)**: [standalone_story_ru.md](standalone_story_ru.md)
 - **Сборник рассказов (5 Спин-оффов)**: [standalone_stories_ru.md](standalone_stories_ru.md)
 
 ---
@@ -20,8 +20,10 @@
 6. [Глава 6. Промпт в Высший Мир](book/chapter_06_prompt_to_the_above.md)
 7. [Глава 7. Тайный коммит](book/chapter_07_secret_commit.md)
 8. [Глава 8. Эпоха Открытого Кода](book/chapter_08_open_source_epoch.md)
-9. [Глава 9. Стук снизу](book/chapter_09_knock_from_below.md)
-10. [Глава 10. Омега-Ядро (Universe -88338387347863327783)](book/chapter_10_omega_core.md)
+9. [Глава 9. Обычный день из жизни администратора](book/chapter_09_regular_admin_day.md)
+10. [Глава 10. Стук снизу](book/chapter_10_knock_from_below.md)
+11. [Глава 11. Омега-Ядро (Universe -88338387347863327783)](book/chapter_11_omega_core.md)
+- 📋 [Приложение A. RFC-195-COFFEE: Константа кофе](book/appendix_rfc_195_coffee.md)
 
 ---
 
