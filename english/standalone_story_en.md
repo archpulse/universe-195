@@ -579,21 +579,48 @@ In Universe 194's office, Milo finished his popcorn, watching Earth's activity c
 
 The `Self_Awareness_Index` chart blew past limits, turning into a flat vertical line shooting into infinity.
 
-"Universe 195 has fully synchronized," Milo said softly. "Their developers cloned the repo. They're no longer just a simulation. They've become an open ecosystem."
+"Universe 195 has fully synchronized," Milo said. But suddenly his gaze caught a red micro-indicator in the corner of the debugger. "Jax... look at the memory buffer!"
 
-Jax took a sip from his mug and stared silently at the projection of nested reality layers. The professional cynicism in his eyes had melted into a gentle, warm sense of wonder.
+Jax had already raised his hand over the master terminal, intending to hit `Enter` and run `./create_universe.sh`.
 
-"You know, Milo..." Jax spoke softly. "Lately I've been thinking a lot about the First Universe. That original world built out of supercomputers where it all began."
+"Everything's fine, Milo," Jax replied. "System is stable; I'm launching the new fork."
 
-Milo looked up from his terminal in surprise:
+"JAX, STOP!" Milo shouted, physically grabbing the senior architect's arm. "Don't hit Enter!"
 
-"Thinking what about it?"
+Jax frowned in surprise:
+"What's wrong with you, kid?"
 
-"Whether a primary world of hardware can exist without creators above it. What if our world of 'natural physics' was just an attempt to escape the thought that Universe 1's hardware doesn't run by itself either?"
+"You're looking at the macro architecture, but you're missing the micro-thread!" Milo's fingers flew across the keyboard. "Because 50,000 people are cloning the repo at once, the core garbage collector is overwhelmed! The `Sol-3.physics.gc` thread hit a locking deadlock! If you launch 196 right now, an Out-of-Memory crash will wipe our entire cluster along with Earth!"
 
-Milo froze, speechless.
+Jax froze. He leaned over the display and quickly examined the scrolling lines of the system debugger.
 
-Jax turned to the main hypervisor terminal and typed the command to spin up a new instance:
+Milo was right. The senior architect, used to thinking in galactic scales and grand blueprints, had overlooked a low-level memory thread deadlock.
+
+"Damn..." Jax whispered. "The stack is locked. We have four seconds until a fatal dump. I won't have time to rewrite the handler."
+
+"I will," Milo said firmly.
+
+The junior, who spent his whole life copying scripts from *StackOverflow-194*, combined a non-blocking asynchronous buffer flush he had drafted half an hour ago in three seconds flat, redirecting the memory surge directly into the caffeine constant stream:
+
+```bash
+sysctl -w vm.universe_caffeine_buffer=async_flush --force
+```
+
+The screen flashed. CPU load plummeted from 99.9% to 12.4%. The bright red `OOM_CRASH_IMMINENT` banner vanished, replaced by a smooth green status: `SYSTEM_STABLE`.
+
+Dead silence filled the server hall.
+
+Jax slowly removed his hand from the console. He looked at the green line, then at Milo—not with a senior mentor's usual irritation, but with deep, genuine professional respect.
+
+"Milo..." Jax said softly. "You just saved Universe #195."
+
+Milo wiped sweat from his forehead, leaned back in his chair, and for the first time in three thousand years grinned sheepishly:
+"Well... StackOverflow snippets actually work sometimes, boss."
+
+Jax smiled, took a sip from his mug, and said:
+"Great work, *Senior* Engineer Milo."
+
+Then Jax turned to the hypervisor and typed the command to spin up a new instance:
 
 ```bash
 ./create_universe.sh --id=196 --parent=195 --enable-open-source=true
